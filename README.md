@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Angel, It's nice to have visits ¡Welcome!</h1>
-<h3 align="center">I'm a person filled with curiosity.</h3>
+<h3 align="center">I'm a Full-Stack Dev.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaosreminder&label=Profile%20views&color=da72ee&style=plastic" alt="chaosreminder" /> </p>
 
