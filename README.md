@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaosreminder&label=Profile%20views&color=da72ee&style=plastic" alt="chaosreminder" /> </p>
 
-- 🔭 I’m currently working on **a lot of projects**
+- 🔭 I’m currently working on **Henry's Final Project: Trés bien (an e-commerce)**
 
 - 🌱 I’m currently honing everything I know and trying to learn **TypeScript, NextJs and NestJs**
 
