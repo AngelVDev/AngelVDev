@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently looking for a job and trying to learn **AWS**
 
-- 👨‍💻 All of my projects are here and [here](https://not-generic-portfolio.vercel.app/) you can view some of them.
+- 👨‍💻 All of my projects are here and [here](https://not-generic-portfolio.vercel.app/) you can view some of them 👈 (that's my portfolio).
 
 - 📫 ¿How to reach me? **antonioscutari2@hotmail.com**
 
-- ⚡ Fun fact: **firefox's mascot isn't a fox.**
+- ⚡ Fun fact: **There was a Tinder match in Antarctica.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
