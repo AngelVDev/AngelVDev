@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaosreminder&label=Profile%20views&color=da72ee&style=plastic" alt="chaosreminder" /> </p>
 
-- 🔭 I’m currently working on **Henry's Final Project: Trés bien (an e-commerce)**
+- 🔭 I’m currently working on **finding a job**
 
-- 🌱 I’m currently honing everything I know and trying to learn **TypeScript, NextJs and NestJs**
+- 🌱 I’m currently looking for a job and trying to learn **AWS**
 
 - 👨‍💻 All of my projects are here and [here](https://not-generic-portfolio.vercel.app/) you can view some of them.
 
