@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently honing everything I know and trying to learn **TypeScript, NextJs and NestJs**
 
-- 👨‍💻 All of my projects will be soon here [notgenericportfolioname.vercel.app](https://not-generic-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are here and [here] you can view some of them(https://not-generic-portfolio.vercel.app/)
 
 - 📫 ¿How to reach me? **antonioscutari2@hotmail.com**
 
