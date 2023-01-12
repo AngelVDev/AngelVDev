@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **finding a job**
 
-- 🌱 I’m currently looking for a job and trying to learn **AWS**
+- 🌱 I’m currently looking for a job and doing some magic in **AWS**
 
 - 👨‍💻 All of my projects are here and [here](https://not-generic-portfolio.vercel.app/) you can view some of them. (👈that's my portfolio).
 
