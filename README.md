@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaosreminder&label=Profile%20views&color=da72ee&style=plastic" alt="chaosreminder" /> </p>
 
-- 🔭 I’m currently working on **finding a job**
-
-- 🌱 I’m currently looking for a job and doing some magic in **AWS**
+- 🔭 I’m currently developing **a social media**
 
 - 👨‍💻 All of my projects are here and [here](https://not-generic-portfolio.vercel.app/) you can view some of them. (👈that's my portfolio).
 
