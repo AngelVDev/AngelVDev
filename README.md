@@ -3,7 +3,7 @@
 <section>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angelvdev&style=for-the-badge&color=blueviolet" alt="angelvdev" /> </p>
 
-- 🔭 I’m currently developing **a social media**
+- 🔭 I’m currently developing **a social media** and a *freelance pseudo-e-commerce*
 
 - 👨‍💻 All of my projects are here and [here](https://not-generic-portfolio.vercel.app/) you can view some of them. (👈that's my portfolio).
 
