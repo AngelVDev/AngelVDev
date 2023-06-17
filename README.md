@@ -25,6 +25,8 @@
    <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
   <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
   
+  <a href="https://app.daily.dev/angelvdev"><img src="https://api.daily.dev/devcards/784db9aafb6d46728e68c5831d623399.png?r=az3" width="265" alt="Angel Scutari's Dev Card"/></a>
+  
 <h3 align="left"><strong>Main in</strong></h3>
 
 <p align="left">
