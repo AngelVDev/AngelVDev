@@ -7,10 +7,6 @@
 
 - 👨‍💻 All of my projects are here and [here](https://not-generic-portfolio.vercel.app/) you can view some of them. (👈that's my portfolio).
 
-- 📫 ¿How to reach me? **antonioscutari2@hotmail.com**
-
-- ⚡ Fun fact: **There was a Tinder match in Antarctica.**
-
 <h3 align="left">¡Connect with me!</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/angel-scutari/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/angel-scutari/" width="145px" /></a>
