@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Angel, ¡welcome!</h1>
 <h3 align="center">Full-Stack dev from Argentina.</h3>
 <section>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=angelvdev&style=for-the-badge&color=blueviolet" alt="angelvdev" /> </p>
 
 - 🔭 I’m currently developing **a social network** and a *freelance pseudo-e-commerce*
 
