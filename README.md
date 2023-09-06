@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Angel, ¡welcome!</h1>
-<h3 align="center">Full-Stack dev from Argentina.</h3>
+<marquee align="center">Full-Stack dev from Argentina.</marquee>
 <section>
 
 - 👨‍💻 All of my projects are here and [here](https://not-generic-portfolio.vercel.app/) you can view some of them. (👈that's my portfolio).
