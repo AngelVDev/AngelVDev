@@ -2,8 +2,6 @@
 <h3 align="center">Full-Stack dev from Argentina.</h3>
 <section>
 
-- 🔭 I’m currently developing **a social network** and a *freelance pseudo-e-commerce*
-
 - 👨‍💻 All of my projects are here and [here](https://not-generic-portfolio.vercel.app/) you can view some of them. (👈that's my portfolio).
 
 <h3 align="left">¡Connect with me!</h3>
