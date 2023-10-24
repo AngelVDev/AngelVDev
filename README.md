@@ -31,7 +31,7 @@
 
 
 ### <strong>Wizard at:</strong>
-<img align="center" src="https://i.imgur.com/wC2yWeu.png" alt="bg" />
+<img align="center" src="https://i.imgur.com/bBLelCN.png" alt="bg" />
 
 
 <p align="left">
