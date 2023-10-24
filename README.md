@@ -1,29 +1,29 @@
-<h1 align="center">Hi 👋, I'm Angel, ¡welcome!</h1>
+## Hi 👋, I'm Angel, ¡welcome!
 <marquee align="center">Full-Stack dev from Argentina.</marquee>
 <section>
 
 - 👨‍💻 All of my projects are here and [here](https://not-generic-portfolio.vercel.app/) you can view some of them. (👈that's my portfolio).
 
-<h3 align="left">¡Connect with me!</h3>
+### ¡Connect with me!
 <p align="left">
 <a href="https://www.linkedin.com/in/angel-scutari/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/angel-scutari/" width="145px" /></a>
 </p>
 </section>
 
-<h3 align="left"><strong>To-Learn list</strong></h3>
+### <strong>To-Learn list</strong>
 <p align="left"> 
  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
    <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
   <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
   
   <a href="https://app.daily.dev/angelvdev"><img src="https://api.daily.dev/devcards/784db9aafb6d46728e68c5831d623399.png?r=az3" width="265" alt="Angel Scutari's Dev Card"/></a>
-<h3 align="left"><strong>Jester at:</strong></h3>  
+### <strong>Jester at:</strong>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
 <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
 
-<h3 align="left"><strong>Wizard at:</strong></h3>
+### <strong>Wizard at:</strong>
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
