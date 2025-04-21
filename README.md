@@ -3,12 +3,7 @@
 Desarrollador Full-Stack con experiencia en:
 
 - Frontend
-- Frontend Mobile
-- DevOps
-- Cloud
-- Inteligencia Artificial
 - Backend
-- Diseño de Sistemas
 
 ### ¡Conéctate conmigo!
 
